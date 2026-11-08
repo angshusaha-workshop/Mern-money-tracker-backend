@@ -1,2 +1,1 @@
-// api/index.js
-module.exports = require("../server");
+module.exports = require("../index");
